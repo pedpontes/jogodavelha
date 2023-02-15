@@ -1,5 +1,4 @@
-# jogodavelha
-Jogo da Velha em C
+# Jogo da Velha em C
 
 Este é um programa simples que implementa o jogo da velha em C. O jogo é jogado por dois jogadores, X e O, que competem para completar uma linha, coluna ou diagonal com suas peças.
 Funcionalidades
